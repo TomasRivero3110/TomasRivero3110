@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Tomas Rivero 👋
 
-<!--
-**TomasRivero3110/TomasRivero3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering student  
+💻 Python Automation & SQL enthusiast  
+📊 Focused on data validation and automation tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+
+- Python
+- SQL
+- Oracle
+- Data Validation
+- Automation Scripts
+- Excel Reporting
+- Git / GitHub
+
+---
+
+## 📂 Featured Projects
+
+### Telecom Offer Validator
+Python tool for validating telecom product catalog configurations using SQL queries and automated Excel reports.
+
+Technologies:
+- Python
+- SQL
+- Oracle
+- Pandas
+- OpenPyXL
+
+Repository:
+https://github.com/TomasRivero3110/telecom-offer-validator
+
+---
+
+## 📫 Contact
+
+LinkedIn  
+https://www.linkedin.com/in/tomas-rivero-bb2a78211/
