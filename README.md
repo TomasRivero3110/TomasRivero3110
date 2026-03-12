@@ -34,7 +34,23 @@ Repository:
 https://github.com/TomasRivero3110/telecom-offer-validator
 
 ---
+### Catalog Characteristics Validator
 
+Python automation tool designed to validate telecom catalog characteristics and equipment configurations.
+
+The script executes SQL queries against an Oracle database, analyzes equipment attributes and catalog configurations, and generates validation reports to support catalog auditing and maintenance processes.
+
+**Technologies**
+- Python
+- SQL
+- Oracle Database
+- Data Validation
+- Automation Scripts
+
+Repository  
+https://github.com/TomasRivero3110/catalog-characteristics-validator
+
+---
 ## 📫 Contact
 
 LinkedIn  
